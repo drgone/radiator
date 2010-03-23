@@ -1,0 +1,5 @@
+Format is tab separated skeinforge settings.
+Name                          	Value
+WindowPosition	0+0
+WindowVisibilities
+Open File for Skeinforge	C:/mendel/frame-vertex_6off_zeroZ.stl
